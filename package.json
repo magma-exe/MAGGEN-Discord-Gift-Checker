@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "MAGGEN – Lightning-fast Discord gift checker",
   "type": "module",
-  "main": "checkGifts.js",
+  "main": "giftChecker.js",
   "scripts": {
     "gen": "node giftChecker.js"
   },
